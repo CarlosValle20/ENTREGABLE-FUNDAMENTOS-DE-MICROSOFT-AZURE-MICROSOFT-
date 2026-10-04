@@ -1,0 +1,5 @@
+# CineStar
+
+Aplicacion web de CineStar conectada a Azure SQL Database.
+
+[Ver pagina web](https://cinestar-carlos-7314b-e4cdhvbbd5b4cqc0.canadacentral-01.azurewebsites.net/Views/index.aspx)
