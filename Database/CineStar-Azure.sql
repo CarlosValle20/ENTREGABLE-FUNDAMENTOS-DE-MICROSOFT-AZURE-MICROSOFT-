@@ -1,9 +1,4 @@
-﻿-- CineStar: carga inicial en Azure SQL Database.
--- Abrir conectado directamente a la base CineStar, vacía.
--- Ejecutar una sola vez. Conserva el esquema y los datos del archivo original.
--- No crea, elimina ni cambia de base de datos.
-
-set dateformat dmy
+﻿set dateformat dmy
 go
 
 create table Distrito (
