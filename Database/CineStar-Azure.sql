@@ -1,6 +1,5 @@
 ﻿set dateformat dmy
 go
-//xd
 create table Distrito (
   id int identity primary key,
   Detalle char(30) unique )
