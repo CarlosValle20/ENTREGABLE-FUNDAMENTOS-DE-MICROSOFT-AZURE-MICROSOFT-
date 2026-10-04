@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-//xd
+
 [assembly: AssemblyTitle("webCinestar_WebForms_202620")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
